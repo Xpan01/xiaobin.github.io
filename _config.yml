@@ -83,9 +83,9 @@ author:
   name             : "Xiaobin Pan"
   avatar           : "profile.png"
   bio              : "Change myself, and the world"
-  location         : "Location"
+  location         : "Utrecht, Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : panxb818@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Xiaobin-Pan"
   uri              :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
